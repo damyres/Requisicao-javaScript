@@ -8,6 +8,12 @@ async function buscarVideo() {
     const busca = await conectaApi.buscaVideo(dadosDePesquisa);
 
     const lista = document.querySelector("[data-lista]")
+
+    //Remover itens filhos de itens pais para listar de acordo coma  busca
+    while (lista.firstChild){
+        lista.removeChild(lista.firstChild)
+    }
+
     busca.forEach(elemento => 
         lista.appendChild(constroiCard(elemento.titulo, elemento.descricao,elemento.url, elemento.imagem)
     ))
