@@ -83,6 +83,69 @@
       "url": "https://www.youtube.com/embed/IVbUAxl1HaM",
       "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
       "id": 12
+    },
+    {
+      "titulo": "ALURA",
+      "descricao": "6 mil vizualizações",
+      "url": "https://www.youtube.com/embed/HQez0jbWbpw",
+      "imagem": "https://www.youtube.com/embed/HQez0jbWbpw",
+      "id": 13
+    },
+    {
+      "titulo": "ALURA",
+      "descricao": "8 mil vizualizações",
+      "url": "https://www.youtube.com/embed/HQez0jbWbpw",
+      "imagem": "https://www.cursoemvideo.com/",
+      "id": 14
+    },
+    {
+      "titulo": "ALURA",
+      "descricao": "6 mil vizualizações",
+      "url": "https://www.youtube.com/embed/HQez0jbWbpw",
+      "imagem": "https://contactout.com/Loiane-Groner-4190976",
+      "id": 15
+    },
+    {
+      "titulo": "ALURA",
+      "descricao": "8 mil vizualizações",
+      "url": "https://www.youtube.com/embed/HQez0jbWbpw",
+      "imagem": "https://www.cursoemvideo.com/",
+      "id": 16
+    },
+    {
+      "titulo": "Carreira em TI - Papo com Loiane Groner",
+      "descricao": "4 mil vizualizações",
+      "url": "https://www.youtube.com/embed/HQez0jbWbpw",
+      "imagem": "https://contactout.com/Loiane-Groner-4190976",
+      "id": 17
+    },
+    {
+      "titulo": "Carreira em TI - Papo com Loiane Groner",
+      "descricao": "8 mil vizualizações",
+      "url": "https://www.youtube.com/embed/HQez0jbWbpw",
+      "imagem": "https://contactout.com/Loiane-Groner-4190976",
+      "id": 18
+    },
+    {
+      "titulo": "Carreira em TI - Papo com Loiane Groner",
+      "descricao": "6 mil vizualizações",
+      "url": "jdbc:h2:~/testdb",
+      "imagem": "https://www.cursoemvideo.com/",
+      "id": 19
+    },
+    {
+      "titulo": "ALURA",
+      "descricao": "3 mil vizualizações",
+      "url": "https://www.youtube.com/embed/HQez0jbWbpw",
+      "imagem": "https://contactout.com/Loiane-Groner-4190976",
+      "id": 20
+    },
+    {
+      "titulo": "CURSO ALURA || É bom ? Vale a pena ?",
+      "descricao": "4 mil vizualizações",
+      "url": "https://www.youtube.com/embed/QZ5Iop-D34k",
+      "imagem": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fblog.b2bstack.com.br%2Falura%2F&psig=AOvVaw2O2mYG2rI735E9-JO5B3TB&ust=1723838815814000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKjOt5Pm94cDFQAAAAAdAAAAABAE",
+      "id": 21
     }
   ]
 }
